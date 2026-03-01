@@ -44,6 +44,12 @@ im_ghoul()
 - English B1 (Intermediate)
 
 ## Photo
-<img src="image2.png" width="250" alt="Stiblo Vladislav">
-<br>
-<img src="ghoul.jpg" width="450" alt="Ghoul">
+<div align="center">
+  <img src="image2.png" width="300" alt="Stiblo Vladislav">
+  
+  <br><br>
+  <i>Literally me</i>
+  <br><br>
+  
+  <img src="ghoul.jpg" width="450" alt="Ghoul">
+</div>
