@@ -44,6 +44,6 @@ im_ghoul()
 - English B1 (Intermediate)
 
 ## Photo
-![Stiblo Vladislav](image2.png)
-*(Optional: ZXC Mode)*
-![Ghoul](ghoul.jpg)
+<img src="image2.png" width="250" alt="Stiblo Vladislav">
+<br>
+<img src="ghoul.jpg" width="450" alt="Ghoul">
